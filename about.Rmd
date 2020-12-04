@@ -4,6 +4,8 @@ title: "About This Website"
 
 Hey there, 
 
-
+First run in with R. Still working out the kinks.
+2nd Year PhD Student.
+Umass-Amherst
 
 Email: smanole@umass.edu
