@@ -1,0 +1,12 @@
+name: "my-website"
+output_dir: "docs"
+navbar:
+  title: "Bio697 Evolutionary Genomics & Bioinformatics"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output:
+  html_document:
+    theme: flatly
