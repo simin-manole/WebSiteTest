@@ -1,0 +1,39 @@
+---
+title: "My Website"
+---
+
+![](https://simin-manole.github.io/genomics-course/icon.png)
+
+# Lab Files
+
+## [Lab 1](https://simin-manole.github.io/genomics-course/labs/lab1_SM.html)
+
+## [Lab 2](https://simin-manole.github.io/genomics-course/labs/lab2.html)
+
+## [Lab 3a](https://simin-manole.github.io/genomics-course/labs/Lab3A.html)
+
+## [Lab 3b](https://simin-manole.github.io/genomics-course/labs/Lab3B.html)
+
+## [Lab 4](https://simin-manole.github.io/genomics-course/labs/lab4.html)
+
+## [Lab 4a - ggplot](https://simin-manole.github.io/genomics-course/labs/lab4_ggplot2.html)
+
+## [Lab 5](https://simin-manole.github.io/genomics-course/labs/lab5.html)
+
+## [Lab 5x](https://simin-manole.github.io/genomics-course/labs/lab5x.html)
+
+## [Lab 6](https://simin-manole.github.io/genomics-course/labs/lab6.html)
+
+## [Lab 6x - Shiny](https://simin-manole.github.io/genomics-course/labs/lab6x.html)
+
+## [Lab 8](https://simin-manole.github.io/genomics-course/labs/lab8.html)
+
+## [Lab 9](https://simin-manole.github.io/genomics-course/labs/lab9a.html)
+
+## [Lab 9X - loops](https://simin-manole.github.io/genomics-course/labs/lab9x.html)
+
+## [Lab 10](https://simin-manole.github.io/genomics-course/labs/lab10.html)
+
+## [Lab 11](https://simin-manole.github.io/genomics-course/labs/lab11.html)
+
+## [Lab 11x](https://simin-manole.github.io/genomics-course/labs/lab11x.html)
